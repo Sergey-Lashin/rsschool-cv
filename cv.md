@@ -9,7 +9,9 @@
 ### Contact Information
 
 __Address:__ 23 Dobrolybova, Ust-Kamenogorsk, 070018
+
 __Email:__ heavyra1n4222@gmail.com
+
 __Phone:__ +7 707 6714360, +7 913 0876611
 
 ### Brief description:
