@@ -69,6 +69,13 @@ function infiniteLoop(arr, d, n) {
 }
 ```
 
+### Courses:
+
+* HTML and CSS сourse for beginner Web Developers on [stepik](https://stepik.org/course/38218/syllabus "course on stepik").(completed - [certificate](https://stepik.org/cert/2557178?lang=en
+));
+* JavaScript Manual on [*learnjavascript.ru*](https://learn.javascript.ru/) (in progress)
+* RS School Course «JavaScript/Front-end. Stage 1» (in progress)
+
 ### Work Experience.
 
 I have two pages laid out as part of a course for beginner web developers on [stepik](https://stepik.org/course/38218/syllabus "course on stepik"):
